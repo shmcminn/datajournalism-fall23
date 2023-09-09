@@ -1,4 +1,4 @@
-**Class 1: Start here!/Story assignments (Sept. 28)**
+**Class 1: Start here!/Story assignments (Sept. 25)**
 
 * Lecture
 	* [Assessment quiz](https://docs.google.com/forms/d/e/1FAIpQLSft2wvlASCHrmfdEq0xEzRW_1RGODXWxvSFlTAHNd-HV-awqQ/viewform)

@@ -1,10 +1,10 @@
-# Medill Data Journalism Fall 2022
+# Medill Data Journalism Fall 2023
 
 **Instructor**: Sean McMinn
 
 **Contact**: Slack is best. On weekdays, I will try to respond to all messages within 24 hours. If you do not hear from me within that time frame, feel free to send a follow-up message.
 
-**Class time**: 6 p.m. - 9 p.m., Tuesdays
+**Class time**: 6 p.m. - 9 p.m., Mondays
 
 **Office hours**: During class or by appointment
 
@@ -23,7 +23,7 @@ Special thank you to [Rachel Shorey](https://github.com/rshorey/digitalframework
 ### Expectations
 
 * Come to class or let me know if you can't make it. I understand that situations occur that make it difficult to attend, and I'm willing to help you if you get in touch with me. Either way, you will be responsible for the material unless otherwise agreed upon.
-* You will only receive two excused absences. **A third absence for any reason will result in you losing one-half of your attendance points (10% pts. off your grade). A fourth absence for any reason will earn you a zero on attendance, and you will not be able to earn more than a B- in the class.** 
+* You will receive two excused absences. **A third absence for any reason will result in you losing one-half of your attendance points (10% pts. off your grade). A fourth absence for any reason will earn you a zero on attendance, and you will not be able to earn more than a B- in the class.** 
 * Complete assignments either in class or as homework due before the next class. That means assignments are due at 6 p.m. on Tuesdays, unless otherwise stated.
    * Late assignments will only be accepted if you contact me and we reach an agreement **before** the class in which it was originally due. 
 * Submit assignments on Github (instructions in first lecture) as specified in the assignment.
@@ -95,28 +95,28 @@ This is subject to revisions based on availablity, final project pacing, etc.
 * [Assignment 1](assignments/assignment1.md) - _in class_
 
 
-**Class 1: Finding data (Sept. 22)**
+**Class 1: Finding data (Sept. 25)**
 
-**Class 2: Finding data (Sept. 27)**
+**Class 2: Finding data (Oct. 2)**
 
-**Class 3: Cleaning data (Sept. 29)**
+**Class 3: Cleaning data (Oct. 9)**
 
-**Class 4: Stats for journalists  (Oct. 11)**
+**Class 4: Stats for journalists  (Oct. 16)**
 
-**Class 5: Analyzing data (Oct. 18)**
+**Class 5: Analyzing data (Oct. 23)**
 
-**Class 6: Data viz pt I (Oct. 25)**
+**Class 6: Data viz pt I (TBD)**
 
-**Class 7: Data viz pt II (Nov. 1)**
+**Class 7: Data viz pt II (Nov. 6)**
 
-**Class 8: Covering federal govt with data (TK)**
+**Class 8: Covering federal govt with data (Nov. 13)**
 
-**Class 9: What the Hell is an API / Deconstructing stories (Nov. 15)**
+**Class 9: What the Hell is an API / Deconstructing stories (Nov. 20)**
 
-**Class 10: Guest speakers (Nov. 22)**
+**Class 10: Guest speakers (TBD)**
 
 
 ### [Final project](finalproject.md)
 
-Details TK
+Details at above link.
 
