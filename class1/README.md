@@ -18,6 +18,5 @@
 * Compile story pitches
 	* Everyone goes through and explains their pitches
 	* Class votes on pitches
-	* Assign students to pitches 
 
 

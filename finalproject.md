@@ -2,7 +2,7 @@
 
 You must complete a final project for this class, either in pairs or -- upon request -- individually. The project has two components:
 
-A reported story pitch based substantially on a dataset, with at least two data visualizations, due by 6 p.m. on Nov 22.
+A reported story *pitch* based substantially on a dataset, with at least two data visualizations, due by 6 p.m. on Nov 20.
 
 The story should answer an interesting question using data. The data component of the story must be substantial, and you need to dig into the dataset. If you just read toplines off a website without actually finding and downloading or creating a dataset, that is insufficient.
 
@@ -24,6 +24,7 @@ The final project is worth 30% of your grade. It will break down as follows:
 
 * How do locations of grocery stores differ in urban and rural communities? 
 * How DC metro changes would affect different demographic groups
+* How have migrants griven congressional district growth in redistricting
 
 ### Examples of professional work that follows this general format
 

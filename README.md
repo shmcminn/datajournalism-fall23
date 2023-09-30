@@ -95,25 +95,24 @@ This is subject to revisions based on availablity, final project pacing, etc.
 * [Assignment 1](assignments/assignment1.md) - _in class_
 
 
-**Class 1: Finding data (Sept. 25)**
 
-**Class 2: Finding data (Oct. 2)**
+**Class 2: Finding data**
 
-**Class 3: Cleaning data (Oct. 9)**
+**Class 3: Cleaning/analyzing data Pt I**
 
-**Class 4: Stats for journalists  (Oct. 16)**
+**Class 4: Cleaning/analyzing data Pt II**
 
-**Class 5: Analyzing data (Oct. 23)**
+**Class 5: Executing the data story**
 
-**Class 6: Data viz pt I (TBD)**
+**Class 6: Data viz pt I**
 
-**Class 7: Data viz pt II (Nov. 6)**
+**Class 7: Data viz pt II**
 
-**Class 8: Covering federal govt with data (Nov. 13)**
+**Class 8: Covering federal govt with data**
 
-**Class 9: What the Hell is an API / Deconstructing stories (Nov. 20)**
+**Class 9: What the Hell is an API / Deconstructing stories**
 
-**Class 10: Guest speakers (TBD)**
+**Class 10: Guest speakers**
 
 
 ### [Final project](finalproject.md)
