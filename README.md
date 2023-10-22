@@ -102,7 +102,7 @@ This is subject to revisions based on availablity, final project pacing, etc.
 
 **Class 4: Cleaning/analyzing data Pt II**
 
-**Class 5: Executing the data story**
+**Class 5: Stats for journalists**
 
 **Class 6: Data viz pt I**
 
