@@ -28,3 +28,6 @@ https://data.census.gov/table/DECENNIALDDHCA2020.T01001?t=-08&g=010XX00US&d=DEC+
 
 Detailed table of tribes by county 
 https://data.census.gov/table?t=-5000AE&g=010XX00US$0500000&d=DEC+Detailed+Demographic+and+Housing+Characteristics+File+A
+
+Total population by county
+https://data.census.gov/table/DECENNIALDHC2020.P1?q=county+population+2020&d=DEC+Demographic+and+Housing+Characteristics
