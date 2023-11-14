@@ -16,7 +16,7 @@ Finish recreating the following visualizations in this piece: https://www.washin
 https://www.census.gov/data/tables/2020/dec/2020-redistricting-supplementary-tables.html 
 
 2000 + 1990 race (two different tables)
-https://www.census.gov/data/tables/2000/dec/phc-t-08.html
+https://www.census.gov/data/tables/2000/dec/phc-t-01.html
 
 1980 ?? (Will ask Andrew in class)
 
